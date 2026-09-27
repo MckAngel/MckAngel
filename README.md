@@ -16,4 +16,5 @@
 `C` · `C++` (en cours d'apprentissage) · `Java` · `PHP` · `SQL` · `Bash` · `Caml`
 
 #### Me contacter
-📫 LinkedIn : www.linkedin.com/in/michael-djeatsa-keleko-03a97a437 · ✉️ [angelo.djeatsa@gmail.com]
+📫 LinkedIn : www.linkedin.com/in/michael-djeatsa-keleko-03a97a437 
+
